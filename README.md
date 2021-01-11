@@ -3,9 +3,10 @@ Here is a simple demo of How we can use Redux alone works.
 
 ## Module Required: Redux
 
-# Node js to run the example.
-
-# How to run
+### How to run
 
 node index.js
+
+### Output
+
 See the output in console.
